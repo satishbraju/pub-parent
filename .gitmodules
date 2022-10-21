@@ -1,0 +1,3 @@
+[submodule "cluster1"]
+	path = cluster1
+	url = https://github.com/satishbraju/cluster-1.git

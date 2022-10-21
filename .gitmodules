@@ -1,3 +1,6 @@
 [submodule "cluster1"]
 	path = cluster1
 	url = https://github.com/satishbraju/cluster-1.git
+[submodule "cluster2"]
+	path = cluster2
+	url = https://github.com/satishbraju/cluster2.git
